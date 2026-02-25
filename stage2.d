@@ -1,0 +1,9 @@
+stage2.o: stage2.c
+stage2.o: types.h
+stage2.o: adc.h
+stage2.o: adc_defines.h
+stage2.o: uart0.h
+stage2.o: delay1.h
+stage2.o: lcd.h
+stage2.o: i2c.h
+stage2.o: i2c_defines.h
