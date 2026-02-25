@@ -1,0 +1,11 @@
+stage4.o: stage4.c
+stage4.o: C:\KeilARM\ARM\INC\Philips\lpc214x.h
+stage4.o: lcd.h
+stage4.o: delay.h
+stage4.o: uart0.h
+stage4.o: gsm.h
+stage4.o: adc_defines.h
+stage4.o: adc.h
+stage4.o: types.h
+stage4.o: i2c.h
+stage4.o: defines.h
