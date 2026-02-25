@@ -1,0 +1,4 @@
+i2c_eeprom_24lc256.o: i2c_eeprom_24LC256.c
+i2c_eeprom_24lc256.o: types.h
+i2c_eeprom_24lc256.o: i2c.h
+i2c_eeprom_24lc256.o: delay.h
