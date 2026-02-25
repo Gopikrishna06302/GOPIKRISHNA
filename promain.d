@@ -1,0 +1,11 @@
+pro_main.o: pro_main.c
+pro_main.o: C:\KeilARM\ARM\INC\Philips\lpc214x.h
+pro_main.o: lcd.h
+pro_main.o: delay.h
+pro_main.o: uart0.h
+pro_main.o: gsm.h
+pro_main.o: i2c.h
+pro_main.o: types.h
+pro_main.o: i2c_eeprom.h
+pro_main.o: defines.h
+pro_main.o: dht11.h
